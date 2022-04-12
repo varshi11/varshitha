@@ -1,0 +1,62 @@
+<html>
+<head>
+   <title>car details</title>
+<style>
+    table, th ,td{
+        border-style:solid;
+        border-color:aquamarine;
+    }
+    th,td{
+        background-color:aquamarine;
+    }
+</style>
+
+<h1 style="color:black; text-align:center; font-family:brush script">CARS </h1>
+
+
+     
+<table style="width:100%">
+<tr>
+    <th>CAR MODEL</th>
+    <th>ENGINE</th>
+    <th>COST</th>
+    <th>IMAGE</th>
+   
+    
+</tr>
+<tr>
+    <td>FERRARI</td>
+    <td>6496CC</td>
+    <td>5.75CR</td>
+    <td><img src="ferrari.jpg" width="150" height="150"></td>
+   
+</tr>
+<tr>
+    <td>BMW 3 SERIES</td>
+    <td>2988CC</td>
+    <td>45LAKHS</td>
+    <td><img src="bmw.jpg" width="150" height="150"></td>
+    
+</tr>
+<tr>
+    <td>MERCEDES BENZ</td>
+    <td> 2925CC</td>
+    <td>65.71 LAKHS </td>
+    <td><img src="mercedes.jpg" width="150" height="150"></td>
+</tr>
+</table>
+<p>
+    <h1 style="background-color:lightpink;text-align:center;font-size:x-large;">LIST OF CARS</h1>
+    <a href="https://www.google.com/search?q=ferrari&oq=ferrari&aqs=chrome.0.69i59j46i199i291i433i512j46i175i199i433i512j46i131i433i512j0i433i512l2j0i433j0i433i512l2j0i512.2850j0j15&sourceid=chrome&ie=UTF-8">FERRARI</a><br>
+    <a href="https://www.google.com/search?q=bmw+3+series&ei=qhtMYqmRHemPseMP5sOIqAY&ved=0ahUKEwipjpiJ3fz2AhXpR2wGHeYhAmUQ4dUDCA4&uact=5&oq=bmw+3+series&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAELEDEEMyBQgAEIAEMggIABCABBCLAzIICAAQgAQQiwMyCAgAEIAEEIsDMggIABCABBCLAzIICAAQgAQQiwMyCAgAEIAEEIsDMggIABCABBCLAzIICAAQgAQQiwM6BwgAEEcQsAM6BwgAELADEEM6CggAEOQCELADGAE6EgguEMcBENEDEMgDELADEEMYAjoSCC4QxwEQowIQyAMQsAMQQxgCOhUILhDHARDRAxDUAhDIAxCwAxBDGAI6CggAELEDEEMQiwM6BwgAEEMQiwM6FAguEIAEELEDEMcBEKMCENQCEIsDOgcILhBDEIsDOgoIABDJAxBDEIsDOg4ILhCPARDqAhCMAxDlAjoOCAAQjwEQ6gIQjAMQ5QI6CgguEMcBENEDEEM6DQguEMcBEKMCENQCEEM6CgguEMcBEKMCEEM6BAgAEEM6CwgAEIAEELEDEIMBOg4ILhCABBCxAxCDARDUAjoQCC4QsQMQxwEQowIQ1AIQQzoKCAAQsQMQgwEQQzoICAAQgAQQsQM6CQgAEAoQQxCLA0oECEEYAEoECEYYAVDuBlis2wJg5d8CaAJwAXgCgAFyiAH8DZIBBDExLjeYAQCgAQGwAQrIARC4AQPAAQHaAQYIARABGAnaAQYIAhABGAg&sclient=gws-wiz">BMW 3 SERIES</a><br>
+    <a href="https://www.google.com/search?q=mercedes+3+series&ei=FxxMYvOpDcHW-QaGuYrYCA&ved=0ahUKEwizkYW93fz2AhVBa94KHYacAosQ4dUDCA4&uact=5&oq=mercedes+3+series&gs_lcp=Cgdnd3Mtd2l6EAMyCAgAEIAEEIsDMggIABCABBCLAzIFCAAQgAQyCAgAEIAEEMkDMggIABCABBCLAzIICAAQgAQQiwMyCAgAEIAEEIsDMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgcIABBHELADOgcIABCwAxBDOgoIABDkAhCwAxgBOhUILhDHARCjAhDUAhDIAxCwAxBDGAI6EgguEMcBEKMCEMgDELADEEMYAjoHCAAQsQMQQzoHCAAQQxCLAzoOCC4QjwEQ6gIQjAMQ5QI6DggAEI8BEOoCEIwDEOUCOgoILhDHARCjAhBDOgQIABBDOg4IABCABBCxAxCDARCLAzoNCC4QsQMQxwEQowIQQzoRCC4QgAQQsQMQxwEQowIQiwM6FwguEIAEELEDEMcBEKMCEIsDEKgDEKcDOgUIABCRAjoICAAQkQIQiwM6CAgAEIAEELEDOgsIABCABBDJAxCLAzoKCAAQgAQQChCLA0oECEEYAEoECEYYAVDWBVj1MWCOOWgCcAF4AoABsAGIAe4XkgEENi4yMpgBAKABAbABCsgBErgBA8ABAdoBBggBEAEYCdoBBggCEAEYCA&sclient=gws-wiz">MERCEDES 3 SERIES</a>
+
+    
+
+</p>
+    
+   
+
+
+
+</body>
